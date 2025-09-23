@@ -1,7 +1,11 @@
 <h1 align="center">Olá 👋, me chamo Samir</h1>
 
 <p align="center">
-Desenvolvedor iniciante apaixonado por tecnologia, inovação e otimizações para o dia a dia.
+Olá! Me chamo Samir Ferreira, sou estudante de Engenharia da Computação e apaixonado por tecnologia e desenvolvimento web. Gosto de transformar ideias em sites funcionais e bem estruturados, sempre buscando aprender novas ferramentas e boas práticas de programação.
+
+Atualmente atuo como MEI prestando serviços na área contábil, o que me permite unir minha formação técnica com habilidades administrativas e organizacionais. Essa combinação me ajuda a enxergar soluções tanto no código quanto na gestão.
+
+Estou sempre em busca de novos desafios, projetos colaborativos e oportunidades para crescer como desenvolvedor e profissional.
 </p>
 
 ---
