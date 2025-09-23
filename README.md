@@ -23,6 +23,11 @@ Estou sempre em busca de novos desafios, projetos colaborativos e oportunidades 
 
 ---
 
+### 📌 Projetos em destaque
+- [Site Luminah](https://github.com/SamirFerreira22/SiteLuminah.git): Site de uma empresa fictícia para um projeto de TCC de um cliente. 
+
+---
+
 ### 🧰 Tecnologias & Ferramentas
 
 <div style="display: inline-block">
@@ -31,11 +36,6 @@ Estou sempre em busca de novos desafios, projetos colaborativos e oportunidades 
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
-
----
-
-### 📌 Projetos em destaque
-- [Site Luminah](https://github.com/SamirFerreira22/SiteLuminah.git): Site de uma empresa fictícia para um projeto de TCC de um cliente. 
 
 ---
 
