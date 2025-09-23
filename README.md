@@ -39,11 +39,6 @@ Estou sempre em busca de novos desafios, projetos colaborativos e oportunidades 
 
 ---
 
-### 📈 Estatísticas
-![Samir's GitHub stats](https://github-readme-stats.vercel.app/api?username=samirFerreira22&show_icons=true&theme=radical)
-
----
-
 ### 🌐 Contatos
 
 <div style="display: inline-block">
