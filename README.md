@@ -10,10 +10,16 @@ Estou sempre em busca de novos desafios, projetos colaborativos e oportunidades 
 
 ---
 
-### 🚀 Sobre mim
-- 🎓 Estudante de Engenharia da Computação
-- 🧠 Sempre aprendendo algo novo: atualmente estudando lógica de programação e desenvolvimento web
-- 🛠️ Gosto de resolver problemas de forma criativa e otimizada
+## 👨‍💻 Sobre mim
+
+<div align="center">
+
+💡 Estudante de <strong>Engenharia da Computação</strong> com paixão por tecnologia e desenvolvimento web.<br><br>
+🧠 Sempre buscando aprender algo novo — atualmente focado em <strong>lógica de programação</strong> e <strong>criação de sites</strong>.<br><br>
+📊 Atuo como <strong>MEI</strong> prestando serviços na área <strong>contábil</strong>, unindo habilidades técnicas e administrativas.<br><br>
+🚀 Gosto de resolver problemas de forma <strong>criativa</strong> e <strong>otimizada</strong>, sempre em busca de novos desafios e projetos colaborativos.
+
+</div>
 
 ---
 
