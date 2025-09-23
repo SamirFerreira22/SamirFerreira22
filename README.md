@@ -42,8 +42,8 @@ Estou sempre em busca de novos desafios, projetos colaborativos e oportunidades 
 # 🛠️ Outras Competências
 
 <div style="display: flex; gap: 8px; flex-wrap: wrap; align-items: center;">
-  <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img alt="Photoshop" src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=black"/>
+  <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img alt="Vegas" src="https://img.shields.io/badge/Vegas_Pro-1A1A1A?style=for-the-badge&logo=sony&logoColor=white"/>
   <img alt="Dominio" src="https://img.shields.io/badge/Domínio_Sistemas-005A9C?style=for-the-badge&logo=windows&logoColor=white"/>
   <img alt="Calima" src="https://img.shields.io/badge/Calima_Contábil-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white"/>
