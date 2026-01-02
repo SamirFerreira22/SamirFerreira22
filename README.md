@@ -15,8 +15,7 @@ Estou sempre em busca de novos desafios, projetos colaborativos e oportunidades 
 <div align="center">
 
 💡 Estudante de <strong>Engenharia da Computação</strong> com paixão por tecnologia e desenvolvimento web.<br><br>
-🧠 Sempre buscando aprender algo novo — atualmente focado em <strong>lógica de programação</strong> e <strong>criação de sites</strong>.<br><br>
-📊 Atuo como <strong>MEI</strong> prestando serviços na área <strong>contábil</strong>, unindo habilidades técnicas e administrativas.<br><br>
+🧠 Sempre buscando aprender algo novo — atualmente focado em <strong>Desenvolvimento Front-End</strong>.<br><br>
 🚀 Gosto de resolver problemas de forma <strong>criativa</strong> e <strong>otimizada</strong>, sempre em busca de novos desafios e projetos colaborativos.
 
 </div>
@@ -59,10 +58,4 @@ Estou sempre em busca de novos desafios, projetos colaborativos e oportunidades 
   <a href="mailto:samirferreira2@gmail.com">
     <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</div>
-
----
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SamirFerreira22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=algolia&hide_border=false" width="200%" height="180" alt="languages graph"  />
 </div>
