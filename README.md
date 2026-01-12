@@ -24,7 +24,8 @@ Estou sempre em busca de novos desafios, projetos colaborativos e oportunidades 
 
 ### 📌 Projetos em destaque
 - [Site Luminah](https://github.com/SamirFerreira22/SiteLuminah.git): Site de uma empresa fictícia para um projeto de TCC de um cliente. 
-
+- [Site Calculadora de Notas (UJ)](https://github.com/SamirFerreira22/CalculadoraDeNotas): Site que calcula suas notas na modalidade SemiPresencial na UniJorge.
+- [Site Contador de Mortes League of Legends)](https://github.com/SamirFerreira22/contador-mortes-lol): Site que calcula o total de vezes que o determinado jogador morreu nas suas últimas 20 partidas mais recentes.
 ---
 
 ### 🧰 Tecnologias & Ferramentas
